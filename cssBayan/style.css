@@ -4,11 +4,12 @@
 }
 body {
     background-color: #fff9d9;
-    padding: 0 220px;
+    padding: 0 10%;
     font-family: Arial, Helvetica, sans-serif;
     overflow-y: scroll;
 }
 header {
+    padding: 2% 0;
     border-bottom: 1px solid rgba(128,128,128,0.3);
 }
 h1 {

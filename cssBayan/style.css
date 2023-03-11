@@ -41,7 +41,7 @@ input {
     transform: rotate(45deg);
 }
 .meme:hover .meme_body {
-    height: 33rem;
+   height: 25vw;
 }
 .meme:hover .meme_body img {
     transform: scale(100%);
@@ -71,9 +71,7 @@ input:checked+label .meme_body img{
     transform: scale(100%);
 }
 input:checked+label .meme_body {
-    
-    height:33rem;
-    
+    height: 25vw;
 }
 
 .meme_header div {

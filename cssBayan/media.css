@@ -1,0 +1,23 @@
+@media (min-width:820px) and (max-width:1919px)  {
+    h1 {
+        font-size: 2rem;
+    }
+    .meme_header h2 {
+        font-size: 1rem;
+    }
+    .meme_header div {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width:819px)  {
+    h1 {
+        font-size: 1.5rem;
+    }
+    .meme_header h2 {
+        font-size: 0.75rem;
+    }
+    .meme_header div {
+        font-size: 0.75rem;
+    }
+}
